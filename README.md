@@ -83,5 +83,4 @@
 
 # Links
 
-- [Create a native and web app with React Native + React Native Web](https://aureliomerenda.medium.com/create-a-native-web-app-with-react-native-web-419acac86b82
-- https://medium.com/@senalisa/creating-a-customizable-multi-step-progress-component-in-react-native-1678f4a0ae45
+- [Create a native and web app with React Native + React Native Web](https://aureliomerenda.medium.com/create-a-native-web-app-with-react-native-web-419acac86b82)
